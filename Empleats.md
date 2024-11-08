@@ -3,7 +3,9 @@
 
 #### Per fer la fitxa d'un empleat en Odoo, cal seguir aquests passos.
 
+
 1. Accedir a Odoo: Inicia la sessió com administrador.
+
 ![alt text](<img/Captura de pantalla 2024-11-07 121710.png>)
 
 2. Accedir a la secció d'Empleats: Troba el botó de "Empleats" i fes clic a sobre.
