@@ -57,6 +57,13 @@ Lo que he realizado:
 - Documentar una demonstración del módulo de Costos.
 - Añadir las capturas de pantalla de Odoo para ayudar en la compreensión de ambos módulos.
 
+Soy Adriana y he configurado los módulos de **Eventos** y **Empleados**.
+
+En lo que ha consistido mi trabajo es:
+- Añadir los empleados y eventos al Odoo.
+- Hacer la ficha de empleado de cada trabajador, con sus datos personales, curriculum, imagen, contrato etc.
+- Crear un evento, haciendo la ficha del evento proporcionando información de la temática, el número de asistentes etc.
+
 # Módulo de Empleados
 
 #### Para crear la ficha de un empleado en Odoo, sigue estos pasos.
