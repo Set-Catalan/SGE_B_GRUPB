@@ -1,0 +1,1 @@
+[text](vscode-vfs://github/Set-Catalan/SGE_B_GRUPB/projecte_the_Bear.md)
