@@ -11,11 +11,11 @@
 2. [Módulo de Empleados](#módulo-de-empleados)  
 3. [Módulo de Ventas](#módulo-de-ventas)  
 4. [Compras](#compras)  
-5. [Puntos de Venta](#puntos-de-venta)  
+5. [Módulo de Puntos de Venta](#módulo-de-puntos-de-venta)  
 6. [Módulo de Eventos](#módulo-de-eventos)  
 7. [Módulo de Calendario](#módulo-de-calendario)  
 8. [Costos](#costos)  
-9. [Planificación](#planificación)  
+9. [Módulo de Planificación](#módulo-de-planificación)  
 10. [Licencias de Odoo](#licencias-de-odoo)  
 11. [Comparativa de ERP](#comparativa-de-erp)  
 12. [Problemas Encontrados](#problemas-encontrados)  
@@ -132,6 +132,85 @@ Las líneas del pedido incluyen productos o servicios, con detalles como cantida
 - **Agregar una nota**: Incluye notas adicionales.
 - **Catálogo**: Accede al catálogo para seleccionar productos adicionales.
 
+# Módulo de Puntos de Venta
+
+---
+
+Con el módulo puntos de venta puedes controlar las ventas de los diferentes locales de tu empresa.
+
+Para utilizarlo, primero debes añadir los diferentes puntos de venta.
+
+Para hacerlo, debes pulsar el botón "Nuevo".
+
+![alt text](img/Punt_de_venda(1).png)
+
+<br>
+
+Y después poner un nombre descriptivo para cada punto de venta.
+
+![alt text](img/Punt_de_venda(2).png)
+
+<br>
+
+Una vez creados los puntos de venta, haz clic en el botón "Kanban".
+
+![alt text](img/Punt_de_venda(3).png)
+
+<br>
+
+Y selecciona el botón donde dice "Abrir caja registradora".
+
+![alt text](img/Punt_de_venda(4).png) 
+
+<br>
+
+Para comenzar una apertura, debes indicar una cantidad de apertura en la caja.
+
+![alt text](img/Punt_de_venda(5).png) 
+
+<br>
+
+Una vez estés dentro, puedes seleccionar los productos que vendas o los servicios que ofrezcas.
+
+![alt text](img/Punt_de_venda(6).png) 
+
+<br>
+
+Y puedes ponerles el valor que desees.
+
+![alt text](img/Punt_de_venda(7).png) 
+
+<br>
+
+También puedes indicar el método de pago, ya sea en efectivo, con tarjeta o a cuenta del cliente.
+
+![alt text](img/Punt_de_venda(8).png)
+
+<br>
+
+Por último, se generará un tiquet con los detalles de la venta.
+
+![alt text](img/Punt_de_venda(9).png)
+
+<br>
+
+Arriba a la izquierda, tienes este botón que te sirve para añadir más cajas registradoras en caso de que lo necesites.
+
+![alt text](img/Punt_de_venda(10).png) 
+
+<br>
+
+Para finalizar la sesión, debes hacer clic en el botón de las tres líneas y donde dice "Cerrar caja registradora".
+
+![alt text](img/Punt_de_venda(11).png)
+
+<br>
+
+Eso te mostrará un resumen de la venta diaria.
+
+![alt text](img/Punt_de_venda(12).png)
+
+
 # Módulo de Eventos
 
 #### Para crear un evento en Odoo, sigue estos pasos.
@@ -196,6 +275,65 @@ El calendario se puede ver en diferentes formatos, como vista diaria, semanal, m
 Los usuarios pueden configurar recordatorios automáticos que envían notificaciones antes de cada evento, ayudando a que los participantes estén preparados a tiempo.
 
 ![Recordatorios automáticos](/imagen_ventas_calendaio/Recodatorio.JPG).
+
+# Módulo de Planificación
+
+---
+
+Con el módulo de planificación puedes organizar a tus trabajadores para saber qué hacen y cuándo lo hacen.  
+Este módulo te ayudará mucho a organizarte a ti y a tus empleados.
+
+Para utilizar el módulo, primero debemos crear y asignar turnos a los empleados.
+
+Para hacerlo, debes pulsar el botón "Nuevo" situado a la izquierda.
+
+![alt text](img/Planificació(1).png)
+
+<br>
+
+Se nos abrirá esta pestaña:
+
+![alt text](img/Planificació(2).png) 
+
+<br>
+
+Aquí podemos seleccionar qué empleado hará el turno, qué rol desempeñará, cuándo lo hará y el tiempo que estará realizando el turno.
+
+![alt text](img/Planificació(3).png) 
+
+![alt text](img/Planificació(4).png) 
+
+<br>
+
+Después de asignar los turnos a los empleados, puedes gestionarlos con diferentes formatos:
+
+En el formato diagrama de Gantt
+
+![alt text](img/Planificació(5).png) 
+
+<br>
+
+En el formato calendario
+
+![alt text](img/Planificació(6).png) 
+
+<br>
+
+En el formato lista
+
+![alt text](img/Planificació(7).png) 
+
+<br>
+
+En el formato kanban
+
+![alt text](img/Planificació(8).png) 
+
+<br>
+
+Y en el formato gráfica.
+
+![alt text](img/Planificació(9).png)
 
 
 ## Licencias de Odoo
