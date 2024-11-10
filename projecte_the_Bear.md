@@ -2,7 +2,7 @@
 **The Original Beef of Chicagoland**
 
 **Fecha:** 10_11_24  
-**Nombres y Apellidos:** Akasha Karam, Adriana Sanchez, Set Catalan y Oscar Fernandez  
+**Nombres y Apellidos:** Akasha Karam, Adriana Sanchez, Set Catalan y Óscar Fernandes  
 
 ## Índice
 
@@ -10,11 +10,11 @@
 1. [Nosotros](#nosotros)  
 2. [Módulo de Empleados](#módulo-de-empleados)  
 3. [Módulo de Ventas](#módulo-de-ventas)  
-4. [Compras](#compras)  
+4. [Módulo de Compras en Odoo](#Módulo-de-Compras-en-Odoo)  
 5. [Módulo de Puntos de Venta](#módulo-de-puntos-de-venta)  
 6. [Módulo de Eventos](#módulo-de-eventos)  
 7. [Módulo de Calendario](#módulo-de-calendario)  
-8. [Costos](#costos)  
+8. [Módulo de Gastos en Odoo](#Módulo-de-Gastos-en-Odoo)  
 9. [Módulo de Planificación](#módulo-de-planificación)  
 10. [Licencias de Odoo](#licencias-de-odoo)  
 11. [Comparativa de ERP](#comparativa-de-erp)  
@@ -131,6 +131,43 @@ Las líneas del pedido incluyen productos o servicios, con detalles como cantida
 - **Agregar una sección**: Organiza productos en categorías.
 - **Agregar una nota**: Incluye notas adicionales.
 - **Catálogo**: Accede al catálogo para seleccionar productos adicionales.
+
+# Módulo de Compras en Odoo
+
+El módulo de Compras en Odoo está diseñado para gestionar de manera eficiente el proceso de adquisición de productos y servicios de la empresa. Permite desde la creación y envío de órdenes de compra hasta la recepción de productos y el pago a los proveedores.
+
+## Opciones del Módulo de Compras
+
+Al entrar en el apartado de compras de Odoo, puedes ver diversas opciones como pedidos realizados, productos disponibles, informes. 
+
+## Realización de Pedidos
+
+Para realizar un pedido, sigue estos pasos:
+
+Haz clic en el botón "Nuevo".
+
+![alt text](<Image Compra/Nuevacompra.png>)
+
+Al crear un nuevo pedido, agrega el producto deseado, por ejemplo, Queso.
+
+![alt text](<Image Compra/Agregar.png>)
+
+Especifica la: cantidad, precio unitario, impuestos aplicables, importe total.
+
+![alt text](<Image Compra/Pedidodecompra.png>)
+![alt text](<Image Compra/Queso.png>)
+
+Los pedidos pueden configurarse para que se realicen automáticamente en ciertos períodos, lo que facilita la gestión de compras recurrentes.
+
+Al realizar el pedido, tienes la opción de crear una factura para el pedido gestionado.
+
+![alt text](<Image Compra/Factura.png>)
+
+## Gestión de Proveedores
+
+Odoo también incluye un apartado para gestionar proveedores, con funciones detalladas que permiten organizar y controlar la relación con tus proveedores.
+
+![alt text](<Image Compra/Proveedor.png>)
 
 # Módulo de Puntos de Venta
 
@@ -275,6 +312,39 @@ El calendario se puede ver en diferentes formatos, como vista diaria, semanal, m
 Los usuarios pueden configurar recordatorios automáticos que envían notificaciones antes de cada evento, ayudando a que los participantes estén preparados a tiempo.
 
 ![Recordatorios automáticos](/imagen_ventas_calendaio/Recodatorio.JPG).
+
+# Módulo de Gastos en Odoo
+
+El módulo de Gastos en Odoo ayuda a gestionar y controlar los gastos de los empleados. Permite registrar, aprobar y reembolsar los gastos de manera fácil, ayudando a llevar un seguimiento claro de los recursos.
+
+## Gestión de Gastos
+
+Puedes registrar un gasto indicando los detalles importantes, como el tipo de gasto, la cantidad, y agregar un recibo o factura como comprobante. Haz clic en el botón “Nuevo” para registrar un nuevo gasto. Luego, completa el tipo de gasto, la cantidad, la fecha, y añade una copia del recibo si es necesario, además del empleado relacionado y por si ha sido pagado por él mismo o por una compañia.
+
+![alt text](<Image Gastos/Gastos.png>)
+![alt text](<Image Gastos/Ejemplogasto.png>)
+
+## Aprobación de Gastos
+
+Una vez registrado el gasto, puedes enviarlo para aprobación. Dependiendo de la configuración, puede necesitar la aprobación de un gerente. Para enviar el gasto a aprobación, selecciona el gasto registrado y haz clic en “Enviar al gerente”.
+
+![alt text](<Image Gastos/GastoGerente.png>)
+
+Al gerente le aparecera la opción de aprobar.
+
+![alt text](<Image Gastos/Aprobar.png>)
+
+## Reembolso de Gastos
+
+Después de que un gasto es aprobado, se puede iniciar el reembolso. Los empleados pueden ver el estado del reembolso en el sistema.
+
+![alt text](<Image Gastos/Crearpago.png>)
+
+## Informes de Gastos
+
+Odoo ofrece informes sobre los gastos, permitiendo ver datos como el tipo de gasto, departamento, empleado, y más.
+
+![alt text](<Image Gastos/Informe.png>)
 
 # Módulo de Planificación
 
