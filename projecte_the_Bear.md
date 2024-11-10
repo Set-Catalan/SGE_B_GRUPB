@@ -57,6 +57,13 @@ Lo que he realizado:
 - Documentar una demonstración del módulo de Costos.
 - Añadir las capturas de pantalla de Odoo para ayudar en la compreensión de ambos módulos.
 
+Me llamo Set y yo he configurado los módulos de **Puntos de Venta** y **Planificación** para el restaurante *The Bear*.
+
+Mi trabajo fue:
+- Configurar los módulos de Puntos de Venta y de Planificación.
+- Documentar la configuración de cada módulo.
+- Añadir una explicación con imagenes sobre el uso de cada módulo.
+
 # Módulo de Empleados
 
 #### Para crear la ficha de un empleado en Odoo, sigue estos pasos.
