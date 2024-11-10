@@ -50,6 +50,13 @@ Mi trabajo consistió en:
 - Incluir capturas de pantalla para ayudar a entender mejor cómo se usan los módulos de Ventas y Calendario.
 - Crear una rama para mí desde la terminal utilizando el comando `git checkout -b akasha`. Este comando crea una nueva rama y automáticamente cambia a ella.
 
+Soy Óscar y he configurado los módulos de **Compras** y **Costos**.
+
+Lo que he realizado:
+- Documentar una demonstración del módulo de Comprar, con un ejemplo de producto.
+- Documentar una demonstración del módulo de Costos.
+- Añadir las capturas de pantalla de Odoo para ayudar en la compreensión de ambos módulos.
+
 # Módulo de Empleados
 
 #### Para crear la ficha de un empleado en Odoo, sigue estos pasos.
