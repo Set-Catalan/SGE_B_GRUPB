@@ -8,11 +8,11 @@
 
 0. [Introducción](#introducción)  
 1. [Nosotros](#nosotros)  
-2. [Empleados](#empleados)  
+2. [Módulo de Empleados](#módulo-de-empleados)  
 3. [Módulo de Ventas](#módulo-de-ventas)  
 4. [Compras](#compras)  
 5. [Puntos de Venta](#puntos-de-venta)  
-6. [Eventos](#eventos)  
+6. [Módulo de Eventos](#módulo-de-eventos)  
 7. [Módulo de Calendario](#módulo-de-calendario)  
 8. [Costos](#costos)  
 9. [Planificación](#planificación)  
@@ -49,6 +49,27 @@ Mi trabajo consistió en:
 - Documentar cómo funciona el sistema, explicando cada proceso de forma clara.
 - Incluir capturas de pantalla para ayudar a entender mejor cómo se usan los módulos de Ventas y Calendario.
 - Crear una rama para mí desde la terminal utilizando el comando `git checkout -b akasha`. Este comando crea una nueva rama y automáticamente cambia a ella.
+
+# Módulo de Empleados
+
+#### Para crear la ficha de un empleado en Odoo, sigue estos pasos.
+
+1. Accede a Odoo: Inicia sesión como administrador.
+
+![alt text](/img_empleado/empleado_1.png)
+
+2. Accede a la sección de Empleados: Encuentra el botón de "Empleados" y haz clic en él.
+![alt text](/img_empleado/Empleado_2.png)
+
+3. Crear un nuevo empleado: Haz clic en "Nuevo" para abrir un nuevo formulario.
+![alt text](/img_empleado/Empleado_3.png)
+
+4. Completa la información necesaria: Rellena todos los campos requeridos, como nombre, posición de trabajo, número de teléfono de trabajo, dirección de correo electrónico, etc.
+![alt text](/img_empleado/Empleado_4.png)
+
+5. Guardar los cambios: Después de completar toda la información, guarda los cambios.
+![alt text](/img_empleado/Empleado_5.png)
+![alt text](/img_empleado/Empleado_6.png)
 
 
 # Módulo de Ventas 
@@ -110,6 +131,28 @@ Las líneas del pedido incluyen productos o servicios, con detalles como cantida
 - **Agregar una sección**: Organiza productos en categorías.
 - **Agregar una nota**: Incluye notas adicionales.
 - **Catálogo**: Accede al catálogo para seleccionar productos adicionales.
+
+# Módulo de Eventos
+
+#### Para crear un evento en Odoo, sigue estos pasos.
+
+1. Accede a la sección de eventos: Encuentra el botón de "Eventos" y haz clic en él.
+![alt text](/img_Eventos/1.png)
+
+2. Crea un nuevo evento: Haz clic en el botón "Nuevo".
+ ![alt text](/img_Eventos/2.png)
+
+3. Rellena la información del evento: Completa los campos obligatorios como el nombre del evento, la fecha y la ubicación. También puedes agregar detalles adicionales como el horario, las sesiones, etc.
+![alt text](/img_Eventos/3.png)
+
+4. Configura las opciones de venta de entradas: En la sección de Ventas, puedes configurar la venta de entradas, establecer precios y condiciones especiales.
+
+5. Publica y promociona el evento: Utiliza la integración con el sitio web de Odoo para publicar el evento y promocionarlo.
+
+6. Gestiona los asistentes: Configura notificaciones y recordatorios para los asistentes, y gestiona las inscripciones y los pagos.
+![alt text](/img_Eventos/4.png)
+
+![alt text](/img_Eventos/5.png)
 
 # Módulo de Calendario
 
